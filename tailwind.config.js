@@ -8,9 +8,6 @@ export default {
     './app.vue',
     './error.vue',
   ],
-  theme: {
-    extend: {},
-  },
+  theme  : { extend: {} },
   plugins: [],
 }
-
